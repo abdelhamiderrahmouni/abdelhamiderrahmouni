@@ -16,6 +16,7 @@
 - Bootstrap
 - MySQL
 - PHP & Javascript (Obviously)
+
 # Tools I Use:
 ### Animations
 - [Lottiefiles](https://app.lottiefiles.com/)
