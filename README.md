@@ -26,3 +26,4 @@
 - [Colorhunt - Color Palettes](https://colorhunt.co/)
 - [Realtimecolors - Color Palettes Testing](https://realtimecolors.com/)
 - [Realtimecolors - Color Palettes Testing](https://realtimecolors.com/)
+- [UIColors - Tailwind Specific Color Palettes Testing](https://uicolors.app/create)
