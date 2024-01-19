@@ -21,9 +21,12 @@
 ### Animations
 - [Lottiefiles](https://app.lottiefiles.com/)
 
+
+
 ### Insperation
 - [Dribbble.com - Web Design](https://dribbble.com/search/shots/popular/web-design)
 - [Colorhunt - Color Palettes](https://colorhunt.co/)
-- [Realtimecolors - Color Palettes Testing](https://realtimecolors.com/)
+
+### Tools
 - [Realtimecolors - Color Palettes Testing](https://realtimecolors.com/)
 - [UIColors - Tailwind Specific Color Palettes Testing](https://uicolors.app/create)
