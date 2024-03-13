@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Kristijan's github stats](https://github-readme-stats.vercel.app/api?username=abdelhamiderrahmouni)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamiderrahmouni&layout=compact)
+[![Kristijan's github stats](https://github-readme-stats.vercel.app/api?username=abdelhamiderrahmouni&show=reviews,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamiderrahmouni&layout=compact)
 
 # My Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwindcss,bootstrap,php,laravel,livewire,filamentphp,inertiajs)](https://skillicons.dev)
