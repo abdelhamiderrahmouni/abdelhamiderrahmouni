@@ -26,7 +26,11 @@
 # Tools I Use:
 ### Animations
 - [Lottiefiles](https://app.lottiefiles.com/)
+
+### Icons & Logos
 - [Oss Icons - iconify](https://icon-sets.iconify.design/)
+- [Tabler-icons](https://tabler.io/icons)
+- [Moroccan logos](https://vector.ma) 
 
 ### Insperation
 - [Dribbble.com - Web Design](https://dribbble.com/search/shots/popular/web-design)
