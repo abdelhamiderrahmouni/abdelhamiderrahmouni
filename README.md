@@ -26,8 +26,7 @@
 # Tools I Use:
 ### Animations
 - [Lottiefiles](https://app.lottiefiles.com/)
-
-
+- [Oss Icons - iconify](https://icon-sets.iconify.design/)
 
 ### Insperation
 - [Dribbble.com - Web Design](https://dribbble.com/search/shots/popular/web-design)
